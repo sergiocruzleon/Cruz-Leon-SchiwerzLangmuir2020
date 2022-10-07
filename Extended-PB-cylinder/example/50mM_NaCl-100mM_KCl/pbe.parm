@@ -1,0 +1,20 @@
+* q1   q2  q3
+-1  1  1
+* c1_00 c1_01 c3_01 (in mol/Liter)
+0.0 0.05 0.10
+* n_c 
+1
+* iprint
+1
+* r_gds, r_depl (grid point)
+119 0
+* sigma (in e/nm^2)
+-0.8315
+* radius (grid point) Original is 13000
+1300
+* distance ( units-nm? )
+2.0
+* a1 a2 a3 ( Fermionic distribution)
+0.7 0.7 0.7
+* zeta parameter (for OP)
+0.5
