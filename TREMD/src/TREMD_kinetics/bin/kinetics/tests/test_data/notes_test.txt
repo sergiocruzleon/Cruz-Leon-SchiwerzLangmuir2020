@@ -1,0 +1,8 @@
+telzl@tbsl025:~/Projects/kinetics/bin/kinetics/tests/test_data$ cp ~/Projects/kinetics/alanine-dipeptide/run1/combine_st/tba_maxL/st1/md_st1_14apr16_bl10_pop.pickle  . 
+lustelzl@tbsl025:~/Projects/kinetics/bin/kinetics/tests/test_data$ cp ~/Projects/kinetics/alanine-dipeptide/run1/combine_st/tba_maxL/st2/md_st2_14apr16_bl10_pop.pickle  . 
+lustelzl@tbsl025:~/Projects/kinetics/bin/kinetics/tests/test_data$ cp ~/Projects/kinetics/alanine-dipeptide/run1/combine_st/tba_maxL/st3/md_st3_14apr16_bl10_pop.pickle  . 
+
+
+/home/lustelzl/Projects/kinetics/prototypes/unit-test-combine-st/test-traj/st1_mc.txt
+/home/lustelzl/Projects/kinetics/prototypes/unit-test-combine-st/test-traj/st2_mc.txt
+
